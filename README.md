@@ -1,7 +1,7 @@
 # Running Meta Quest 3 with X Plane-12 - Plugin + App
 
 
-![alt text](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/Pilot.jpg "Title")
+![alt Pilot with VR + MacBook](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/Pilot.jpg "Title")
 
 I tried all kinds of workarounds to connect the Meta Quest 3 to X-Plane 12 on my MacBook M-series, but nothing worked.
 
