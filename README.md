@@ -33,7 +33,7 @@ Enter there your local headset ip address.
 # How to run
 1. Install the apk on your Meta Quest 3 (It should also work on Quest 3s but I didn't yet test).
 2. Make sure the app runs sucessfully on your VR.
-3. Place the XP plugin as described above.
+3. Place the XP plugin as described above (Was tested on XP 12, it might also work on XP 11).
 4. Make sure the plugin runs on your X Plane (You can check the plugin menu and confirm it shows up there).
 5. Start X Plane
 6. Press on F6 on your mac once you load an airplane.
