@@ -23,7 +23,26 @@ https://drive.google.com/file/d/1mDzhpilcCMWBR4Mjs2XV3QmcWVuZPK0S/view?usp=drive
 
 XP 12 plugin can downloaded here:
 https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugin
+Make sure you place the full folder Mac_VR_Plugin in your X Plane plugin folder.
+The path is usually `<X Plane installtion path>/Resources/plugins`
 
 Make sure to edit https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Mac_VR_Plugin/settings.json:
 Enter there your local headset ip address.
 (You can find the address in your router settings).
+
+# How to run
+1. Install the apk on your Meta Quest 3 (It should also work on Quest 3s but I didn't yet test).
+2. Make sure the app runs sucessfully on your VR.
+3. Place the XP plugin as described above.
+4. Make sure the plugin runs on your X Plane (You can check the plugin menu and confirm it shows up there).
+5. Start X Plane
+6. Press on F6 on your mac once you load an airplane.
+7. Go back to your VR and make sure the airplane shows up.
+8. Press the trigger on the right controller to recenter plane.
+9. You can use the thumbsticks on the left/right controller to position you in the cockpit if needed.
+10. Now you can use a joystick to fly the plane.
+
+# Desclaimer
+This app is still under development.
+Any feedback is welcome.
+If you find any issue you can post them on issues.
