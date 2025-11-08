@@ -1,4 +1,6 @@
 # Running Meta Quest 3 with X Plane-12 - Plugin + App
+
+[Image](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/Pilot.jpg)
 I tried all kinds of workarounds to connect the Meta Quest 3 to X-Plane 12 on my MacBook M-series, but nothing worked.
 
 I really wanted the option to enjoy a VR experience on my MacBook. After spending so much on the laptop, I didn’t want to buy a separate Windows gaming PC just to run X-Plane with VR. Plus, when I travel, I can’t take a big PC with me anyway.
