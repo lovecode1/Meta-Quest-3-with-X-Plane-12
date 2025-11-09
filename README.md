@@ -45,6 +45,9 @@ Enter there your local headset ip address.
 9. You can use the thumbsticks on the left/right controller to position you in the cockpit if needed.
 10. Now you can use a joystick to fly the plane.
 
+# X Plane 12 settings:
+![alt Settings Graphics](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/X%20Plane%20Graphics%20Settings.jpg "Title")
+
 # Desclaimer
 * This app is still under development.
 * Any feedback is welcome.
