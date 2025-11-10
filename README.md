@@ -29,9 +29,33 @@ https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugi
 Make sure you place the full folder Mac_VR_Plugin in your X Plane plugin folder.
 The path is usually `<X Plane installtion path>/Resources/plugins`
 
-Make sure to edit https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Mac_VR_Plugin/settings.json:
-Enter there your local headset ip address.
-(You can find the address in your router settings).
+By default for performance we use the Android ADB link to speed up data transfer and by default we set the ip address to 127.0.0.1
+Make sure you enable USB access.
+To enable USB access see the section below.
+In case you want to run on WiFi not on USB then edit the VR ip address here:
+https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Mac_VR_Plugin/settings.json
+(You can find the VR ip address in your router settings).
+
+# How to enable USB access:
+To enable USB access on a Meta Quest 3, you first need to
+enable Developer Mode through the Meta mobile app and then connect your headset to a PC with a USB-C cable. Once connected, a prompt will appear in the headset; select "Allow" to grant USB access, and also choose "Always allow from this computer" for future connections. 
+Step 1: Enable Developer Mode 
+
+    Open the Meta mobile app on your phone.
+    Go to Settings > Devices > Headset Settings > Developer Mode.
+    Toggle the switch to turn on Developer Mode.
+    You may need to restart your headset after this step. 
+
+Step 2: Connect the headset to your computer 
+
+    Use a USB-C cable that supports both data and power to connect your headset to your computer.
+    Put on your headset. 
+
+Step 3: Allow USB access 
+
+    A prompt will appear in your headset titled "USB Detected" or asking to allow USB debugging.
+    Click Allow to grant access to your data.
+    Select Always allow from this computer to make future connections easier.
 
 # How to run
 1. Install the apk on your Meta Quest 3 (It should also work on Quest 3s but I didn't yet test).
@@ -43,7 +67,8 @@ Enter there your local headset ip address.
 7. Go back to your VR and make sure the airplane shows up.
 8. Press the trigger on the right controller to recenter plane.
 9. You can use the thumbsticks on the left/right controller to position you in the cockpit if needed.
-10. Now you can use a joystick to fly the plane.
+10. To get closer to items (e.g. small text in the cokpit) press the grab button on the left controller.
+11. Now you can use a joystick to fly the plane.
 
 # X Plane 12 settings:
 In order not to load too much on the MacBook cpu/gpu I'm using this reselution: **`1920 × 1080`**.
