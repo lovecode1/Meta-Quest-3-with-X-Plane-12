@@ -1,4 +1,4 @@
-# Running Meta Quest 3 with X Plane-12 (Plugin + Quest App)
+# Running Meta Quest 3 + X Plane-12 + MacOS (Plugin + Quest App)
 
 ### Introduction:
 
