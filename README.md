@@ -71,8 +71,8 @@ Step 3: Allow USB access
 11. Now you can use a joystick to fly the plane.
 
 # X Plane 12 settings:
-* In order not to load too much on the MacBook cpu/gpu I'm using this reselution: **`1920 × 1080`**.
-* Make sure Vertial FOV is set to **96**, since that's the vertical FOV Meta Quest 3 supports.
+* In order not to load too much on the MacBook cpu/gpu I'm using this reselution: **`1920 × 1080`** (You can try other resultions and see what works for you best).
+* Make sure Vertial FOV is set to **96**!, since that's the vertical FOV Meta Quest 3 supports.
 * For more settings see here:
 ![alt Settings Graphics](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/X%20Plane%20Graphics%20Settings.jpg "Title")
 
