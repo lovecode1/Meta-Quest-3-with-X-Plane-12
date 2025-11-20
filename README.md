@@ -21,15 +21,16 @@ The performance and visual quality will never match a high-end Windows PC with n
 I think there’s real potential here.
 
 # How to Install
-Meta Quest 3 App apk can be download here:
+### Meta Quest 3 App apk can be download here:
 https://drive.google.com/file/d/1mDzhpilcCMWBR4Mjs2XV3QmcWVuZPK0S/view?usp=drive_link (It was too big to upload to GitHub).
+To install the APK on your Meta Quest 3, you can use SideQuest (or ADB for more advanced users).
 
-XP 12 plugin can downloaded here:
+### XP 12 plugin can downloaded here:
 https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugin
 Make sure you place the full folder Mac_VR_Plugin in your X Plane plugin folder.
 The path is usually `<X Plane installtion path>/Resources/plugins`
 
-By default for performance we use the Android ADB link to speed up data transfer and by default we set the ip address to 127.0.0.1
+### By default for performance we use the Android ADB link to speed up data transfer and by default we set the ip address to 127.0.0.1
 Make sure you enable USB access.
 To enable USB access see the section below.
 In case you want to run on WiFi not on USB then edit the VR ip address here:
