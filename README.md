@@ -30,7 +30,8 @@ https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugi
 Make sure you place the full folder Mac_VR_Plugin in your X Plane plugin folder.
 The path is usually `<X Plane installtion path>/Resources/plugins`
 
-### By default for performance we use the Android ADB link to speed up data transfer and by default we set the ip address to 127.0.0.1
+### By default for performance we use the Android ADB link to speed up data transfer
+By default the XP plugin looks for the Quest on the ip address to 127.0.0.1
 Make sure you enable USB access.
 To enable USB access see the section below.
 In case you want to run on WiFi not on USB then edit the VR ip address here:
