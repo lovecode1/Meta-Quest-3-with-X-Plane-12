@@ -81,6 +81,9 @@ Step 3: Allow USB access
 
 * You are welcome to try out other settings.
 
+# Plance specific vrconfig corrections:
+https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/vrconfig_fixes.md
+
 # Desclaimer
 * This app is still under development.
 * Any feedback is welcome.
