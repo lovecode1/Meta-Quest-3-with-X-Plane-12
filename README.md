@@ -24,7 +24,7 @@ I think there’s real potential here.
 ### Meta Quest 3 App apk can be download here:
 https://drive.google.com/file/d/1mDzhpilcCMWBR4Mjs2XV3QmcWVuZPK0S/view?usp=drive_link (It was too big to upload to GitHub).
 
-To install the APK on your Meta Quest 3, you can use SideQuest or ADB for more advanced users.
+To install the APK on your Meta Quest 3, you can use ADB. (SideQuest is another option).
 
 #### How to setup ADB:
 * To install ADB on MacOS run in the terminal: `brew install android-platform-tools`
