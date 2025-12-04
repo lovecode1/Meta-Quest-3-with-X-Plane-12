@@ -81,6 +81,19 @@ Step 3: Allow USB access
 
 * You are welcome to try out other settings.
 
+# Controlling the stream quality:
+Here is an important setting that helps you balance quality and performance:
+Go to X-Plane menu and select "VR for Mac" -> Settings:
+![alt Settings Graphics](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/Stream%20Quality%20Setting.jpg "Image quality menu setting")
+
+Then select the quality:
+![alt Settings Graphics](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/Image_Quality_Setting.jpg "Image quality setting")
+Then click Apply or Save.
+
+A good range is 90–95.
+If you set it too high, performance may drop. If you set it too low, performance will improve but image quality will decrease.
+Adjust the slider until you find the balance that looks and feels best for your setup.
+
 # Plance specific vrconfig corrections:
 https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/vrconfig_fixes.md
 
