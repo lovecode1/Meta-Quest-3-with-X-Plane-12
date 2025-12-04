@@ -14,7 +14,7 @@ The system has two parts: a dedicated Meta Quest 3 app and an X-Plane 12 plugin 
 
 The plugin retrieves the headset’s pose and orientation, applies it to the X-Plane camera, and streams the simulator’s view back to the headset. This creates a usable 3D experience.
 
-For now, you still need a joystick to control the aircraft, but later I plan to add support for using the Quest controllers directly in X-Plane.
+For now, you still need a joystick and mouse to control the aircraft, but later I plan to add support for using the Quest controllers directly in X-Plane.
 
 The performance and visual quality will never match a high-end Windows PC with native Quest Link and built-in X-Plane VR support, but the experience is good enough to be enjoyable.
 
