@@ -23,6 +23,7 @@ I think there’s real potential here.
 # How to Install
 ### Meta Quest 3 App apk can be download here:
 https://drive.google.com/file/d/1mDzhpilcCMWBR4Mjs2XV3QmcWVuZPK0S/view?usp=drive_link (It was too big to upload to GitHub).
+(If you have issue downloading the apk with this link please see here [Here](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/issues/2#issuecomment-3686329576)).
 
 To install the APK on your Meta Quest 3, you can use ADB. (SideQuest is another option).
 
